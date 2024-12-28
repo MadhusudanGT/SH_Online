@@ -1,10 +1,7 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using Photon.Pun;
 using UnityEngine.UI;
-using UnityEditor.Rendering;
-using Photon.Realtime;
 
 public class DisplayColor : MonoBehaviourPunCallbacks
 {
